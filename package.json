@@ -11,7 +11,7 @@
     "gen-swagger": "bin/gencodejs.js"
   },
   "name": "evan-yy-swagger-bridge",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/processer.js",
   "scripts": {
