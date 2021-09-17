@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "evan_yy",
+    "email": "evan_yangyang@163.com",
+    "url": "https://github.com/EvanYY"
+  },
+  "bugs": {
+    "url": "https://github.com/EvanYY/swagger-bridge/issues"
+  },
+  "bin": {
+    "gen-swagger": "bin/gencodejs.js"
+  },
+  "name": "evan-yy-swagger-bridge",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/processer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EvanYY/swagger-bridge.git"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/EvanYY/swagger-bridge#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "evan-yy-swagger-js-codegen": "^2.2.0"
+  }
+}
